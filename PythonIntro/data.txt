@@ -1,0 +1,386 @@
+Bulbasaur
+Ivysaur 4519 3635
+Venusaur 3987
+Charmander 4127 6636 5715 1708
+Charmeleon 9500 4036
+Charizard
+Squirtle 961
+Wartortle 3212 3497 3377 2499
+Blastoise 8320 7814
+Caterpie 4852 8022
+Metapod 3504 3029 4692 4005
+Butterfree
+Weedle 2440 9342 4715
+Kakuna
+Beedrill 7107 8393 929
+Pidgey
+Pidgeotto 893 5074 7956
+Pidgeot 4039 3635 7568
+Rattata 4631 4742 6843
+Raticate 8363 346
+Spearow 153 7807 2501
+Fearow 5704 5707 299 9481
+Ekans 9744
+Arbok 6836
+Pikachu 1157
+Raichu 1392
+Sandshrew 7071 5865 9720
+Sandslash 6188
+Nidoran♀ 1145 5973 1789
+Nidorina 5484
+Nidoqueen
+Nidoran♂ 131
+Nidorino 8677 9860 7015 1808
+Nidoking
+Clefairy 2182
+Clefable
+Vulpix 8974
+Ninetales 5151 6600 5626 1831
+Jigglypuff 290 970 8777
+Wigglytuff 7185 1987 9366
+Zubat 5088 1617 5867 181
+Golbat
+Oddish 9221 3339 9650
+Gloom 6292 7610 1197
+Vileplume 3785 3072 375 7808
+Paras 5341 9157 1136 677
+Parasect 7466
+Venonat 6974 4957 9962
+Venomoth 2217 9040 1098 2294
+Diglett 9882 2189 7600 9417
+Dugtrio 7889 595 9162 5431
+Meowth
+Persian 5962 9034
+Psyduck 4933
+Golduck
+Mankey 6382 7875 8130 3545
+Primeape 6993
+Growlithe
+Arcanine 7483 4315 8427 8364
+Poliwag 4126 4085 4124 7830
+Poliwhirl 3810 737 7031
+Poliwrath
+Abra 9166 9412 1480 2439
+Kadabra 1735 9460 3352 5717
+Alakazam 3601
+Machop 1773 1605 1431 4835
+Machoke
+Machamp
+Bellsprout
+Weepinbell 552 8964 12 3047
+Victreebel 5457 8912 7323 1648
+Tentacool 6790 2811
+Tentacruel 4442
+Geodude 299 2096 2229
+Graveler 7103 9635
+Golem 3310 757 5633
+Ponyta 482 7462 7661
+Rapidash 379 6345 2189 8738
+Slowpoke 8790
+Slowbro 2891 6538 7644
+Magnemite 7348
+Magneton 7546 6239 6105 7026
+Farfetch'd 2326 1791
+Doduo
+Dodrio 4636
+Seel 7319 7562 5622 150
+Dewgong 1912 855 5055 5664
+Grimer
+Muk
+Shellder 5864 3508 2756 191
+Cloyster 4168 6396
+Gastly 6351 6025
+Haunter
+Gengar 4054 4799 1141 2217
+Onix 1217 9948 9851 2976
+Drowzee 2235
+Hypno 96
+Krabby 9438
+Kingler 643 9408
+Voltorb
+Electrode 6949 7549 6787
+Exeggcute
+Exeggutor 9417 6152
+Cubone 4889 6915 6011 7509
+Marowak 9121
+Hitmonlee
+Hitmonchan 930
+Lickitung 791 6543 5103
+Koffing 4384 9722 7467 3987
+Weezing 9592 7258 5981
+Rhyhorn
+Rhydon
+Chansey 490 4273 7910 1428
+Tangela
+Kangaskhan 3642 5555 7648
+Horsea 7492
+Seadra 2137
+Goldeen 5398
+Seaking 4977
+Staryu 7956
+Starmie
+Mr. Mime 23
+Scyther 7826 3239 5370 8216
+Jynx 5194 7935
+Electabuzz 2435 1990 5261
+Magmar 55
+Pinsir 2646
+Tauros
+Magikarp 3084 1134 1667
+Gyarados 7020 9789 6139
+Lapras 3050 9497 7276 2608
+Ditto 8284 5875 5770 4004
+Eevee 9655 7408
+Vaporeon 2475
+Jolteon
+Flareon 4738
+Porygon 2023
+Omanyte 236 4915 1962
+Omastar 2700 6496 661 8753
+Kabuto 2636 6515 5805
+Kabutops
+Aerodactyl 4412
+Snorlax 1743 3451 2596
+Articuno 2839 7996 6353 9106
+Zapdos
+Moltres 9812 8122 4273 4010
+Dratini 8283
+Dragonair 5029 8751
+Dragonite 7736
+Mewtwo 5723 241
+Mew
+Chikorita 9840 6418
+Bayleef 5903 2762 2379 4104
+Meganium 4830 366 8060 9564
+Cyndaquil 3679
+Quilava 5974
+Typhlosion 9069 218 5020 3916
+Totodile 6158 3379 312 9314
+Croconaw 640
+Feraligatr 541 74 311
+Sentret
+Furret
+Hoothoot 3034
+Noctowl 340 8666
+Ledyba
+Ledian 7768
+Spinarak 7344
+Ariados 5088 1714 309 6280
+Crobat 6514 3570
+Chinchou 6740 9085 1519 8660
+Lanturn 3811 8714 5912 680
+Pichu 4117 3978 7445 4800
+Cleffa
+Igglybuff 7049 9987 4084
+Togepi
+Togetic 7710
+Natu 9557 4811 4082 5666
+Xatu 5423 1615
+Mareep 5396 2194 9494
+Flaaffy 9062 1219
+Ampharos 9409
+Bellossom 4642 6587
+Marill 5717 4709 525
+Azumarill 9107 953
+Sudowoodo 6956
+Politoed 8064 9111 901
+Hoppip 7851 5119 1703
+Skiploom 9281 7319
+Jumpluff 6751 290 8498
+Aipom 6122 8314
+Sunkern
+Sunflora 6560 1341 2930 9532
+Yanma 7887 7449 4923 7401
+Wooper 3395 9364 3101 6657
+Quagsire 5651 8214 1405
+Espeon 9361 2485 9471 2931
+Umbreon 8531
+Murkrow 3948
+Slowking 5060 3368 5811
+Misdreavus 8298 5561 373
+Unown
+Wobbuffet
+Girafarig 9675 2362 2014
+Pineco 913 7261
+Forretress 5182 824 9702 3726
+Dunsparce 7544 6802 2582 5802
+Gligar 6273 9408 1461
+Steelix 2462
+Snubbull 3484 9298 2090 8002
+Granbull
+Qwilfish
+Scizor 834 7129 7333 9614
+Shuckle 4992
+Heracross 1359
+Sneasel 870 9149
+Teddiursa 4111 2452 6252 2064
+Ursaring 3184 7538 5240
+Slugma 4715 2541 5156 5910
+Magcargo 7289 9972 9227 7278
+Swinub
+Piloswine 7010 527 9074 4427
+Corsola
+Remoraid 2465
+Octillery
+Delibird 6299 6617 2048 6025
+Mantine 7630 6587 3372 424
+Skarmory 2242 830
+Houndour 5229
+Houndoom 1935 9200 7649
+Kingdra 1350 9850 6828 1863
+Phanpy
+Donphan 5727 7795 549 3467
+Porygon2 5082 701 6016
+Stantler 3550 5717 3545 3014
+Smeargle 4491 6837
+Tyrogue 7920 8071
+Hitmontop 9743 7374 5098
+Smoochum 4244 1010
+Elekid 257 1538
+Magby
+Miltank 4143 2868 396
+Blissey 7200
+Raikou 5562 6038 7810 9805
+Entei
+Suicune
+Larvitar 9827 5711 3525
+Pupitar
+Tyranitar
+Lugia 6278
+Ho-Oh 9668 534 836 8007
+Celebi 4627
+Treecko
+Grovyle 3958 1012 2363 8661
+Sceptile
+Torchic 3441 3154 4827
+Combusken 8259 2633 6866 3259
+Blaziken 8754 5909
+Mudkip 9614
+Marshtomp 8612
+Swampert
+Poochyena 4884 6857
+Mightyena 7450 9709
+Zigzagoon 2764 6342
+Linoone 7371 8941 3951
+Wurmple 2153 4986 7847 5546
+Silcoon
+Beautifly 526 6665 1902 694
+Cascoon 7906
+Dustox 8836
+Lotad 3522 9226 2198
+Lombre 5718 5348 504 7493
+Ludicolo 9400 2605 5003
+Seedot 2033
+Nuzleaf 7294 8570
+Shiftry 7407 8883 4221 9109
+Taillow 2584 5510 6853 557
+Swellow 3070 8722
+Wingull
+Pelipper 1134
+Ralts
+Kirlia 3028 8862 7744 3194
+Gardevoir 7234 2125 6863
+Surskit 2572 294
+Masquerain
+Shroomish 6070 4762
+Breloom 6479 9867 2486
+Slakoth 7519 988 5642 4652
+Vigoroth 5100
+Slaking 6345
+Nincada 4995 2810
+Ninjask 9122 1949
+Shedinja 9487
+Whismur
+Loudred 6325 7836 6188
+Exploud
+Makuhita 4179 165 3696
+Hariyama 5607 8328 795
+Azurill 8237 7504
+Nosepass 984 6766 1533
+Skitty 1187 9142 779 413
+Delcatty 9598 9834 5148 710
+Sableye 2797 6168 1889
+Mawile
+Aron 6296 6398
+Lairon 8579 3399 1087
+Aggron
+Meditite 3549 8882 8874 5401
+Medicham 8439 7094 5453 5438
+Electrike 2466
+Manectric 4446
+Plusle 5031
+Minun
+Volbeat 2432 7856 7818 6499
+Illumise 6730 677
+Roselia 1482 2611 4170
+Gulpin 5879 6188 4996
+Swalot 1174 3374 5021
+Carvanha 999 3887 7571
+Sharpedo 5912 1566 9123 453
+Wailmer 6085 7618 6809 5444
+Wailord 2717 9550 9550 3692
+Numel 9959 322
+Camerupt 9272
+Torkoal 7427 792 3553
+Spoink 6743 8026 6566 9714
+Grumpig 8343 5250
+Spinda
+Trapinch 7147 1827
+Vibrava 8963
+Flygon
+Cacnea 1187
+Cacturne 2765 6509 1497 1498
+Swablu 2484
+Altaria 5503 7405 1702
+Zangoose
+Seviper 9139
+Lunatone 1306
+Solrock 384 2052
+Barboach 1320 7501 4421 3625
+Whiscash
+Corphish 4292
+Crawdaunt 5717 212 8102 7861
+Baltoy 6304 2154 5033 9059
+Claydol 8394 2349 5894 1151
+Lileep 6649 7685
+Cradily 9264
+Anorith 4426
+Armaldo 8548 3323 236
+Feebas 8927 4344
+Milotic
+Castform
+Kecleon 619 6270 498
+Shuppet 6073
+Banette 6238 6407 3797 8172
+Duskull
+Dusclops 5943 6596
+Tropius 9108 8025
+Chimecho 3065
+Absol 1080 9484 8252 4365
+Wynaut 6104 877 3944
+Snorunt
+Glalie 1763 9250 8320 3576
+Spheal 3862 5612 5130 6873
+Sealeo
+Walrein
+Clamperl 539 1727 9399
+Huntail 1313 8675 4676
+Gorebyss 9043 987
+Relicanth 6750 8539 8874 6877
+Luvdisc 4146
+Bagon
+Shelgon 4662
+Salamence 8509 816
+Beldum 9672 314 5725 9855
+Metang 7969
+Metagross 1439 423
+Regirock 2861 2243
+Regice 7638 7096 7516 8340
+Registeel 5733 5973
+Latias 9743 164 2813 5625
+Latios 5087 1547
+Kyogre 3545
+Groudon 2779 8551 3497 3276
+Rayquaza 8432
+Jirachi
+Deoxys 2112
